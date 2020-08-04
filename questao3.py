@@ -4,4 +4,4 @@ numero2 = int(input("Digite o segundo número: "))
 
 soma = numero1 + numero2
 
-print(f"A soma dos dois números digitados: {numero1}+{numero2} = {soma}")
+print(f"A soma dos dois números digitados a seguir: {numero1}+{numero2} = {soma}")
